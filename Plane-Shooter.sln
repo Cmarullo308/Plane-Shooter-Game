@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EBDB4BB6-6A72-C2FD-8720-1802441086B8}") = "Fucking Shit", "Assembly-CSharp-firstpass.csproj", "{267AF043-420E-D888-48FB-ABA02800454D}"
+EndProject
+Project("{EBDB4BB6-6A72-C2FD-8720-1802441086B8}") = "Fucking Shit", "Assembly-CSharp.csproj", "{230E015A-66A4-F8C2-A66B-67D8917162DF}"
+EndProject
+Project("{EBDB4BB6-6A72-C2FD-8720-1802441086B8}") = "Fucking Shit", "Assembly-CSharp-Editor.csproj", "{D5E151F3-F679-0FBC-CEEF-25FDB795EE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267AF043-420E-D888-48FB-ABA02800454D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267AF043-420E-D888-48FB-ABA02800454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267AF043-420E-D888-48FB-ABA02800454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267AF043-420E-D888-48FB-ABA02800454D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230E015A-66A4-F8C2-A66B-67D8917162DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230E015A-66A4-F8C2-A66B-67D8917162DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230E015A-66A4-F8C2-A66B-67D8917162DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230E015A-66A4-F8C2-A66B-67D8917162DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E151F3-F679-0FBC-CEEF-25FDB795EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E151F3-F679-0FBC-CEEF-25FDB795EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E151F3-F679-0FBC-CEEF-25FDB795EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E151F3-F679-0FBC-CEEF-25FDB795EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
